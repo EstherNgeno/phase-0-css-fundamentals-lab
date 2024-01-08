@@ -3,3 +3,39 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+img {
+align-items: center;
+display: block;
+}
+
+nav a{
+  padding: 10px;
+  background: #d1b2b2;
+  float: center;
+  margin: 25%;
+}
+
+p {
+font-size: small;
+text-align: center;
+width: 800px;
+}
+
+div a{
+  float: left;
+  background:#9d4444;
+  text-align: center;
+  width: 25px;
+}
+
+div {
+  float: left; 
+  background:#9d4444;
+  text-align: center;
+  width: 25px;
+}
